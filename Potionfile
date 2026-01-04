@@ -1,0 +1,21 @@
+{
+  "name": "potions-plugin-hello-world",
+  "version": "1.0.0",
+  "description": "A minimal hello world plugin for Potions registry integrity checks",
+  "author": "Potions Registry",
+  "license": "MIT",
+  "potions_min_version": "2.6.0",
+  "platforms": ["macos", "linux", "wsl", "termux"],
+  "dependencies": [],
+  "provides": {
+    "nvim": [],
+    "shell": [],
+    "tmux": []
+  },
+  "hooks": {
+    "post_install": "",
+    "pre_uninstall": ""
+  },
+  "checksums": {}
+}
+
