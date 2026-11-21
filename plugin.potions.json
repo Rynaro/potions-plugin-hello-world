@@ -1,0 +1,8 @@
+{
+  "name": "plugin-hello-world",
+  "version": "1.0.0",
+  "description": "A minimal hello-world command for Potions",
+  "author": "Potions Registry",
+  "license": "MIT",
+  "potions_min_version": "2.18.0"
+}
